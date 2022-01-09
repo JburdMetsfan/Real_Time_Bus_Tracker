@@ -10,7 +10,7 @@ Download all files to your local machine.  Drop the html file on to a blank web 
 Features on the roadmap that could be helpful to users would be to include hover help sections to show bus schedules.
 
 # License Information
-MIT License
+MIT License *see included License file for details
 
 
 
